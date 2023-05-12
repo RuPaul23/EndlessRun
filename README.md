@@ -7,10 +7,9 @@ Endless Run is a 3D endless runner game where players must avoid obstacles by mo
 
 ## Screenshots
 
-![Super Oreo 3D Game Screenshot 1](SuperOreo3D/blob/main/SuperOreo%203D/Screenshot/Screenshot1.png)
-![Super Oreo 3D Game Screenshot 2](SuperOreo3D/blob/main/SuperOreo%203D/Screenshot/Screenshot2.png)
-![Super Oreo 3D Game Screenshot 3](SuperOreo3D/blob/main/SuperOreo%203D/Screenshot/Screenshot3.png)
-![Super Oreo 3D Game Screenshot 4](SuperOreo3D/blob/main/SuperOreo%203D/Screenshot/Screenshot4.png)
+![Super Oreo 3D Game Screenshot 1](SuperOreo%203D/Screenshot/Screenshot1.png)
+![Super Oreo 3D Game Screenshot 2](SuperOreo%203D/Screenshot/Screenshot2.png)
+![Super Oreo 3D Game Screenshot 3](SuperOreo%203D/Screenshot/Screenshot3.png)
 
 ## Technology Stack
 Endless Run was developed using the following technologies:
